@@ -1,6 +1,6 @@
 # PatchVAE
 
-Implementation of "PatchVAE: Learning Local Latent Codes for Recognition" in PyTorch.
+Implementation of [PatchVAE: Learning Local Latent Codes for Recognition](https://arxiv.org/abs/2004.03623) in PyTorch.
 
 ![Illustration](imgs/illustration.png)
 
